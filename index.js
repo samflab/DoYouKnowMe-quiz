@@ -1,6 +1,7 @@
 var readlineSync = require("readline-sync");
 
 var score = 0;
+console.log("Hey");
 
 //welcome message, at the start of the game
 function welcome(){
